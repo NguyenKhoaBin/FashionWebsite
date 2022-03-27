@@ -427,7 +427,7 @@
     display: none;
 }
 /* ---------------------Responsive mobile--------------- */
-@media screen and (max-width: 400px){
+@media screen and (max-width: 739px){
     .header-menu_list{
         display: none;
     }
